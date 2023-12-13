@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Debug的小窝</title>
+  
+  <subtitle>随便坐，当自己家一样</subtitle>
+  <link href="https://debugwangz.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://debugwangz.github.io/"/>
+  <updated>2023-12-13T09:38:19.621Z</updated>
+  <id>https://debugwangz.github.io/</id>
+  
+  <author>
+    <name>debugwangz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="https://debugwangz.github.io/hello%20world/"/>
+    <id>https://debugwangz.github.io/hello%20world/</id>
+    <published>2023-12-13T04:36:35.932Z</published>
+    <updated>2023-12-13T09:38:19.621Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的小屋，随便坐，当自己家一样~~</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到我的小屋，随便坐，当自己家一样~~&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
